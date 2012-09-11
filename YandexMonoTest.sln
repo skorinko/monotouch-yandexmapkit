@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexMonoTest", "YandexMonoTest\YandexMonoTest.csproj", "{9B996D54-67A3-4F1F-9B8C-F9F301D24892}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40175D98-62F8-460E-AF4D-6EAB37DAB2B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YandexLibBinding", "YandexLibBinding\YandexLibBinding.csproj", "{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.Debug|iPhone.Build.0 = Debug|iPhone
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.Release|iPhone.ActiveCfg = Release|iPhone
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.Release|iPhone.Build.0 = Release|iPhone
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{9B996D54-67A3-4F1F-9B8C-F9F301D24892}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.Release|iPhone.Build.0 = Release|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{D6B7C0FB-8545-4DB6-BC8F-C7AFD69C15F7}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = YandexMonoTest\YandexMonoTest.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+EndGlobal
