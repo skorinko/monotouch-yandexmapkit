@@ -27,8 +27,9 @@ namespace YandexMonoTest
 		//
 		public override bool FinishedLaunching (UIApplication app, NSDictionary options)
 		{
-			
-			YMKConfiguration.sharedInstance.apiKey = "gqGikdRyd-zIvilbcas1qNSK1kFuFoRyBi~rEYTEMDYcaa1lBDV1Y9Bts7oRqxf8Y8qYOU-msY2jNfUU17GjgSRz901aihl5qrHAl4ebciA=";
+
+#warning key from Yandex needed
+			YMKConfiguration.sharedInstance.apiKey = "key here";
 			//YMKVariables.YMKConsoleLoggingEnabled = true;
 
 			window = new UIWindow (UIScreen.MainScreen.Bounds);
